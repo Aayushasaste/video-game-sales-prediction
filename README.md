@@ -14,11 +14,11 @@ Features:
 Name, Platform, Year, Genre, Publisher,NA_Sales, EU_Sales, JP_Sales, Other_Sales, Global_Sales
 
 ## Technologies & Libraries
-1.Python
-2.Pandas
-3.NumPy
-4.Matplotlib / Seaborn
-5.Scikit-learn
+- Python
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+- Scikit-learn
 
 ## Project Workflow
 1. **Data Cleaning**
@@ -41,9 +41,10 @@ Name, Platform, Year, Genre, Publisher,NA_Sales, EU_Sales, JP_Sales, Other_Sales
    - Residual plots
 
 ## Results
-Achieved an R² score of approximately XX (fill in based on your results)
-Found Platform and Year as key predictors
-Model is a baseline and can be improved with more features or advanced regressors
+- Achieved an R² score of approximately `XX` (fill in based on your results)
+- Found `Platform` and `Year` as key predictors
+- Model is a baseline and can be improved with more features or advanced regressors
+
 
 ## How to Run
 1. Clone the repository:
